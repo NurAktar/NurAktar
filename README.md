@@ -5,7 +5,9 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
-
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=NurAktar&&style=flat-square" align="center" />
+</div>
 
 
 ### Glad to see you here!  
@@ -79,12 +81,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NurAktar&&style=flat-square" align="center" />
-</div>
+<br/>
