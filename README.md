@@ -87,13 +87,4 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NurAktar&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
