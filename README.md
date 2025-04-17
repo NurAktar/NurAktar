@@ -20,10 +20,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- ###### 🛠️ I’m currently working on shopcity [private repo]  
+- ###### 🛠️ I’m currently working on AI sales Agent [private repo]  
   
 
-- ###### 🌱 I’m currently learning Django  
+- ###### 🌱 I’m currently learning webpack  
   
 
 - ###### ⚡ Fun fact: I think I'm funny.  
